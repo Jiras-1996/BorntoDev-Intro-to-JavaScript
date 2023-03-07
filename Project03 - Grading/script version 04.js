@@ -1,3 +1,5 @@
+// Project03 - Grading
+
 let score = prompt("คะแนนของคุณ :")
 
 if(score >= 80){
